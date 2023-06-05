@@ -2,6 +2,12 @@
 
 TodoNotes app is used to write notes as well create todos like reminder
 
+
+
+https://github.com/Arunshaik2001/TodoNotes/assets/50947867/d28075c4-ddf3-4564-b61d-5cba52dd6cb5
+
+
+
 # Used Stack:
   **1. React Native**
   
@@ -12,6 +18,8 @@ TodoNotes app is used to write notes as well create todos like reminder
   **4. Material Bottom Bar Navigation**
   
   **5. Material Top Bar Navigation**
+  
+  **6. Context Api**
   
   **6. SQLLite**
   
